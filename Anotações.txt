@@ -1,0 +1,1 @@
+text-transform: uppercase; para deixar todas as letras em Maiúsculo
